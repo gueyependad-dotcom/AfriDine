@@ -1,0 +1,12 @@
+{
+  "name": "afri-dine",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'No build needed'"
+  },
+  "dependencies": {
+    "serve": "^14.0.0"
+  }
+}
+
